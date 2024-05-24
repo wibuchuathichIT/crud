@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\bin\Debug\crud.exe.config
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\bin\Debug\crud.exe
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\bin\Debug\crud.pdb
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\obj\Debug\crud.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\obj\Debug\crud.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\obj\Debug\crud.exe
+C:\Users\Admin\OneDrive\Desktop\TLU\Nam2-HK2-GD2\LT-windows-C#\project_crud\crud\obj\Debug\crud.pdb
